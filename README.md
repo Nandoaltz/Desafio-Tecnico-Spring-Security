@@ -7,6 +7,7 @@
   detalhada dos modelos de entidade e dos endpoints, facilitando o entendimento e a utilização da aplicação.
 - Foram aplicadas coberturas de testes unitários utilizando Mockito, verificando o correto funcionamento
   das operações básicas de CRUD e do fluxo de autenticação/login.
+  
 
 - [x]  • Permita inclusão de novos clientes.
 - [x]  • Permita a atualização de clientes existentes.
